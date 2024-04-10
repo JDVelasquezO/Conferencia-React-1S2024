@@ -1,8 +1,13 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Características
+Se utilizaron las siguientes tecnologías:
+1. Node JS
+2. Vite
+3. NPM (para instalar Materialize y React-Router)
 
-Currently, two official plugins are available:
+## Referencias:
+- https://legacy.reactjs.org/docs/getting-started.html
+- https://vitejs.dev/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
